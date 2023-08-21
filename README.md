@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey hey hey 👋, I'm Kien
+
+I have been working passionately as a web developer since 2019.
+
+I'm a full time developer based in Cambodia and I'm a maintainer of [cypress-image-diff](https://github.com/uktrade/cypress-image-diff), a visual regression plugin for Cypress.
+
+"Code with passion, create with purpose."
 
 <!--
 **kien-ht/kien-ht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
