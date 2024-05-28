@@ -2,7 +2,7 @@
 
 I have been working passionately as a web developer since 2019.
 
-I'm a full time developer based in Cambodia and I'm a maintainer of [cypress-image-diff](https://github.com/uktrade/cypress-image-diff), a visual regression plugin for Cypress.
+I'm a full time developer based in Vietnam and I'm the main maintainer of [cypress-image-diff](https://github.com/uktrade/cypress-image-diff), a visual regression plugin for Cypress.
 
 "Code with passion, create with purpose."
 
